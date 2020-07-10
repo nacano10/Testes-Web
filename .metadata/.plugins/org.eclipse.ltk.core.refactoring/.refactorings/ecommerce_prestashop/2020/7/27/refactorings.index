@@ -1,0 +1,11 @@
+1593802131215	Rename method 'incluirProdutoNoCarrinho_ProdutoIncluidoComSucesso'
+1593802165736	Rename method 'IrParaCarrinho_InformacoesPersistidas'
+1593802192436	Rename method 'IrParaCheckout_FreteMeioPagamentoEnderecoListadosOk'
+1593802206521	Rename method 'finalizarPedido_pedidoFinalizadoComSucesso'
+1593825310746	Copy file
+1593826207863	Delete element
+1593826218574	Rename resource 'visualiza_produtos2.feature'
+1593826260948	Rename type 'ComprarProdutosSteps'
+1593827642749	Move compilation unit
+1593827645943	Move file
+1593828455306	Rename local variable 'subtotal'
